@@ -1,0 +1,14 @@
+{
+  "name": "Curso-Next-Js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build", 
+    "start": "next start" 
+  },
+  "keywords": [],
+  "author": "Andres Gutierrez <andres_mau.gutierrez@uao.edu.co>",
+  "license": "ISC"
+}
